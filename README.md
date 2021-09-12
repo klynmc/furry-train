@@ -7,6 +7,8 @@ A website made to help people organize their schedule
 * HTML
 * CSS
 * Moment.js
+* Bootstrap
+* jQuery
 
 ## website
 *(enter website link here)*
