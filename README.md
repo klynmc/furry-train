@@ -10,7 +10,7 @@ A website made to help people organize their schedule
 * Bootstrap
 * jQuery
 
-## website
+## Website
 *(enter website link here)*
 
 ## Contribution
