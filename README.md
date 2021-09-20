@@ -11,7 +11,7 @@ A website made to help people organize their schedule
 * jQuery
 
 ## Website
-*(enter website link here)*
+https://klynmc.github.io/furry-train/
 
 ## Contribution
 Refractored with love by Leigha McKay
